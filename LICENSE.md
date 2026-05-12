@@ -1,4 +1,4 @@
-# 
+# Polymarket vip Automation Script: decentralized-trading & liquidity-provision offers the most advanced Polymarket automation-script, with decentralized-trading and
 
 
 
